@@ -1,8 +1,7 @@
 # Acceron-Assignment
 
 ## 🔹Overview:
-This repository contains exploratory data analysis for given [Problem Statment](https://github.com/gauravpore/Acceron-Assignment/blob/master/Problem_statement.pdf) using the given
-[data](https://github.com/gauravpore/Acceron-Assignment/tree/master/data).
+This repository contains exploratory data analysis for given [Problem Statment](https://github.com/gauravpore/Acceron-Assignment/blob/master/Problem_statement.pdf) using the provided [data](https://github.com/gauravpore/Acceron-Assignment/tree/master/data).
 
 🔸**Concepts:**
 - Data Preprocessing
