@@ -28,3 +28,5 @@ pip install pandas
 pip install plotly
 ```
 
+🔸 Click [here](https://github.com/gauravpore/Acceron-Assignment/blob/master/graphs/customer-value.png) to view plots
+
