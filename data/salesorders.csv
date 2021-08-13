@@ -1,0 +1,7 @@
+ID,customer_id,seller_id,OrderDate,address,city,state,pincode,country,location,status,value,DeliveryDate,currency,DeliveryDays,DeliveryChallan,transporter_id,route
+1,1,1,2021-03-12,"8665 Sunny Deer Woods",Baltimore,Maryland,21226,USA,"POINT(43.18824005 -77.56706238)",Approved,50000,2021-03-15,usd,3,0,1,"{'src': 'Baltimore', 'dest': 'Baltimore'}"
+2,2,1,2021-03-12,"9879 Harvest Deer Farms",Dallas,Texas,75211,USA,"POINT(32.753685 -96.86553955)",Approved,100000,2021-03-14,usd,2,0,1,"{'src': 'Jamestown', 'hub1': 'Harriburg', 'hub2': 'Baltimore', 'hub3': 'Washington', 'hub4': 'Baltimore', 'hub5': 'Charlotte', 'hub6': 'Atlanta', 'dest': 'Dallas'}"
+3,3,1,2021-03-12,"3675 Emerald Goose Bank",Freeport,"New York",11520,USA,"POINT(40.65486527 -73.58707428)",Approved,78000,2021-03-16,usd,4,0,NULL,NULL
+4,6,1,2021-03-12,"5985 Silent Leaf Vale",Germantown,Maryland,20874,USA,"POINT(39.1836586 -77.26545715)",Approved,140000,2021-03-15,usd,3,0,NULL,NULL
+5,8,1,2021-03-12,"8665 Sunny Deer Woods",Rochester,"New York",14609,USA,"POINT(26.19762421 -98.19145203)",Approved,190000,2021-03-15,usd,3,0,NULL,NULL
+6,7,1,2021-03-13,"3675 Emerald Goose Bank",Baltimore,Maryland,21226,USA,"POINT(40.65486527 -73.58707428)",Approved,28000,2021-03-15,usd,3,0,NULL,NULL

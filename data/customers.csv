@@ -1,0 +1,12 @@
+ID,CustomerName,address,city,state,pincode,country,CustomerSegment,location,domain,NumberOfWarehouses
+1,"Marah Lara","8665 Sunny Deer Woods",Baltimore,Maryland,21226,USA,Corporate,"POINT(43.18824005 -77.56706238)",automobile,3
+2,"Taylor Wood","9879 Harvest Deer Farms",Dallas,Texas,75211,USA,Corporate,"POINT(32.753685 -96.86553955)",automobile,5
+3,"Patricia Petersen","3675 Emerald Goose Bank",Baltimore,Maryland,21226,USA,Consumer,"POINT(40.65486527 -73.58707428)",NULL,NULL
+4,"Karen Smith","7573 Cozy Goose Road",Cincinnati,Ohio,45238,USA,Consumer,"POINT(39.28849411 -84.3551178)",NULL,NULL
+5,"Mary Silva","1230 Crystal Lookout",Carrollton,Texas,75006,USA,Consumer,"POINT(32.96593094 -96.84902191)",NULL,NULL
+6,"Shawn Smith","5985 Silent Leaf Vale",Germantown,Maryland,20874,USA,Consumer,"POINT(39.1836586 -77.26545715)",NULL,NULL
+7,"Betty Roberts","4255 Silver Gate Vale",Rochester,"New York",14609,USA,Consumer,"POINT(43.18824005 -77.56706238)",NULL,NULL
+8,"Arthur Alvarez","8665 Sunny Deer Woods",Rochester,"New York",14609,USA,"Home Office","POINT(26.19762421 -98.19145203)",NULL,NULL
+9,"Katherine Bailey","3481 Wishing Port",Germantown,Maryland,20874,USA,Consumer,"POINT(39.19226837 -77.24241638)",NULL,NULL
+10,"Wynter Wynn","5198 Colonial Loop",Baltimore,Maryland,21226,USA,Consumer,"POINT(32.93148804 -96.81433868)",NULL,NULL
+11,"Jason Dixon","7494 Emerald Terrace",Dallas,Texas,75211,USA,Consumer,"POINT(32.76312256 -96.69212341)",NULL,NULL
